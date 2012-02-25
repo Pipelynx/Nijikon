@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'anidb' target in the 'anidb' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
